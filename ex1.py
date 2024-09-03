@@ -1,4 +1,4 @@
-# Dados 3 lados de um triângulo, calcule e mostre seu perímetro (soma dos lados).
+# 1. Dados 3 lados de um triângulo, calcule e mostre seu perímetro (soma dos lados).
 
 ladoA = int(input("Informe o lado A do triângulo: "))
 ladoB = int(input("Informe o lado B do triângulo: "))
